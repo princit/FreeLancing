@@ -184,3 +184,123 @@
     - skill    - Bio Data
  ![image](https://github.com/princit/FreeLancing/assets/29123911/f63de429-101e-4948-8279-52a482dec791)
    
+
+ </table>
+     <table>
+    <thead>
+      <tr>
+        <th>What not to do while setting the goal?</th>
+        <th>What to Do while setting the goal?</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Goal without plain </td>
+            <td>Effort</td>
+        </tr>
+        <tr>
+            <td>Vague goal</td>
+            <td>Discipline</td>
+        </tr>
+        <tr>
+            <td>Goal to please other or inspired form other</td>
+             <td>Commitment</td>
+        </tr>
+        <tr>
+            <td>Forced Goal</td>
+            <td>Set Goal that motivate you</td>        
+        </tr>
+        <tr>
+            <td></td>
+            <td>SMART Goal</td>        
+        </tr>
+        <tr>
+            <td></td>
+            <td>Write you goal.Break it down.Make plan </td>        
+        </tr>
+    </tbody>
+  </table>
+ <table>
+
+ <table>
+    <thead>
+      <tr>
+        <th>How to  achieve goal</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Furious Optimism</td>
+        </tr>
+        <tr>
+            <td>Laser focused</td>
+        </tr>
+         <tr>
+           <td>Embrase failure.Stay strong.Keep going</td>
+        </tr>
+    </tbody>
+ </table>
+
+  <table>
+    <thead>
+      <tr>
+        <th>what is need to learn skill</th>
+        <th>How to learn new skill.Align your goal</th>        
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Focus</td>
+            <td>Self analysis</td>
+        </tr>
+        <tr>
+            <td>Calmness</td>
+            <td>Watch Video</td>
+        </tr>
+         <tr>
+           <td>Affection</td>
+           <td>Article Reading</td>
+        </tr>
+         <tr>
+           <td></td>
+           <td>live speech</td>
+        </tr>
+         <tr>
+           <td></td>
+           <td>Audio speech</td>
+        </tr>
+    </tbody>
+  </table>
+  
+Effective buiness communication skill
+
+  <table>
+    <thead>
+      <tr>
+        <th>Types of communication skill</th>
+        <th>Detail</th>        
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Verbal</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Non-verbal</td>
+            <td>Eye contact,sign facial expression</td>
+        </tr>
+         <tr>
+           <td>witten</td>
+           <td>Text mesage ,email,chat point of view in told</td>
+        </tr>
+         <tr>
+           <td>visual</td>
+           <td>graph,image</td>
+        </tr>
+         <tr>
+           <td>Listening</td>
+           <td></td>
+        </tr>
+    </tbody>
+  </table>
