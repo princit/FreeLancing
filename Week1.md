@@ -170,10 +170,16 @@
  **Essentail of FreeLancing**
 
  1- A laptop with good internet connection
+ 
  2- An In demand skill
+ 
  3- communication skill
+ 
  4- workspace
+ 
  5- portfolio 
+ 
     - Name     - Qualiication
+    
     - skill    - Bio Data
     
