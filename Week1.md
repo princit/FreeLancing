@@ -166,3 +166,14 @@
   </table>
 
   ![image](https://github.com/princit/FreeLancing/assets/29123911/c3785175-ec7d-4785-af35-003c5495cc1e)
+
+ **Essentail of FreeLancing**
+
+ 1- A laptop with good internet connection
+ 2- An In demand skill
+ 3- communication skill
+ 4- workspace
+ 5- portfolio 
+    - Name     - Qualiication
+    - skill    - Bio Data
+    
