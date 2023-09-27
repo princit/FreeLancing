@@ -122,3 +122,47 @@
         </tr>
     </tbody>
   </table>
+ <table>
+    <thead>
+      <tr>
+        <th>Advantages</th>
+        <th>DisAdvantages</th>     
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>financial freedom</td>
+            <td>Isolation</td>
+        </tr>
+        <tr>
+            <td>Passive Income</td>
+            <td>Lack of Job Security</td>        
+        </tr>
+        <tr>
+            <td>Keep All profit</td>
+            <td>Social Circle</td>        
+        </tr>
+        <tr>
+            <td>Unlimited earning potential</td>
+            <td>Mental Health</td>      
+        </tr>
+       <tr>
+            <td>Time to focus on your health and family</td>
+            <td>Variable work load and income</td>    
+        </tr>
+        <tr>
+             <td>Work when ever ypu want</td>
+             <td>growth Dilemia</td>
+          </tr>
+         <tr>
+            <td>Location flexibility</td>
+            <td>Family Life</td>
+          </tr>
+          <tr>
+            <td>flexible hours</td>
+        </tr>
+
+    </tbody>
+  </table>
+
+  ![image](https://github.com/princit/FreeLancing/assets/29123911/c3785175-ec7d-4785-af35-003c5495cc1e)
