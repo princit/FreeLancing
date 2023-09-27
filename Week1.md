@@ -182,4 +182,5 @@
     - Name     - Qualiication
     
     - skill    - Bio Data
-    
+ ![image](https://github.com/princit/FreeLancing/assets/29123911/f63de429-101e-4948-8279-52a482dec791)
+   
