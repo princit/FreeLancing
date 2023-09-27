@@ -304,3 +304,31 @@ Effective buiness communication skill
         </tr>
     </tbody>
   </table>
+  
+<table>
+    <thead>
+      <tr>
+        <th>Importance of communciation in upwork</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Tone</td>
+            <td>Skill</td>
+        </tr>
+        <tr>
+            <td>Body language</td>
+            <td>Confident</td>
+        </tr>
+         <tr>
+           <td>Greeting </td>
+           <td>Facial expression</td>
+        </tr>
+         <tr>
+           <td>Facial Expression</td>
+        </tr>
+    </tbody>
+ </table>
+ 
+![image](https://github.com/princit/FreeLancing/assets/29123911/21bd70fb-0f4f-48e3-9447-91dc5bbc5a45)
+
