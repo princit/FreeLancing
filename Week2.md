@@ -142,4 +142,35 @@
         </tr>
     </tbody>
   </table>
+  
+![image](https://github.com/princit/FreeLancing/assets/29123911/a150732c-96bc-4880-be33-c14bcbe2bdfb)
 
+![image](https://github.com/princit/FreeLancing/assets/29123911/0f8feeb0-2512-4a4c-ad69-2ea212b80451)
+
+
+<table>
+    <thead>
+      <tr>
+        <th>More effective communication skill</th>
+        <th>Relation more stronger</th> 
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Send Message</td>
+            <td>Express your self</td>           
+         </tr>
+        <tr>
+            <td>About your product</td>
+            <td>About youreslef</td></td>
+        </tr>
+        <tr>
+            <td>selection of words </td>
+            <td>Message</td>
+        </tr>
+        <tr>
+            <td>Stay connected-skype</td>
+            <td>consciseness</td>
+        </tr>
+    </tbody>
+  </table>
