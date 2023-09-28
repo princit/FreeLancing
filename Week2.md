@@ -92,6 +92,7 @@
         </tr>
     </tbody>
   </table>
+
 ![image](https://github.com/princit/FreeLancing/assets/29123911/6c64401f-df6a-4869-9ff7-cf30ba158d1a)
  
  <table>
@@ -128,8 +129,7 @@
     <tbody>
         <tr>
             <td>Hard Worker</td>
-            <td>portfolio</td>
-           
+            <td>portfolio</td>           
          </tr>
         <tr>
             <td>Spend extra hours</td>
