@@ -317,20 +317,14 @@
         <tr>
             <td>you are accountable for employeer business</td>
             <td>work done in particualr time frame</td>
-            <td>no social networking</td> 
-           
            </tr>
         <tr>
             <td>you are accountable for dead line</td>
             <td>how much time need to be invested on particualr job</td>
-             <td>no social networking</td> 
-           
         </tr> 
        <tr>
             <td>you are accountable for money you take but not give the deliverables</td>
             <td>you are player of big senarios or smaller one</td>
-             <td>no social networking</td> 
-           
         </tr> 
     </tbody>
   </table>
