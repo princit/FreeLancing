@@ -205,9 +205,9 @@
     <thead>
       <tr>
         <th>Free lancer sites ask for making account</th>
-        <th>Dont give account detail in begninng of account creation</th> 
-        <th>testing amount with be cut/th> 
-        <th>payment method you use be aware of there policies /th> 
+        <th>Dont give account detail in begninng of account creation </th> 
+        <th>testing amount with be cut</th> 
+        <th>payment method you use be aware of there policies </th> 
       </tr>
     </thead>
     <tbody>
