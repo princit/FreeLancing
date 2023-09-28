@@ -1,4 +1,3 @@
-![image](https://github.com/princit/FreeLancing/assets/29123911/8bbecbb3-ba42-40ad-94a9-772172140865)
 
    <table>
     <thead>
