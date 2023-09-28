@@ -108,3 +108,34 @@ Top 50 sites of world **craigslit**
         </tr>       
     </tbody>
   </table>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Go to shop</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>- Beautiful</td>
+        </tr>
+        <tr>
+            <td>- cheap product</td>
+        </tr>    
+         <tr>
+            <td>but shop keeper disrespect you</td>
+        </tr>  
+    </tbody>
+  </table>
+ 
+
+  <table>
+    <thead>
+      <tr>
+        <th>Be nice  </th>
+        <th>Be True  </th>       
+        <th>Be Talented  </th>
+      </tr>
+    </thead>
+  </table>
+
