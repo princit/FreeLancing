@@ -332,3 +332,70 @@ Effective buiness communication skill
  
 ![image](https://github.com/princit/FreeLancing/assets/29123911/21bd70fb-0f4f-48e3-9447-91dc5bbc5a45)
 
+<table>
+    <thead>
+      <tr>
+        <th>Effetive communciation</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Manner</td>
+            <td>Correct words</td>
+        </tr>
+        <tr>
+            <td>Poor to Millioner</td>
+            <td>Leader</td>
+        </tr>
+         <tr>
+           <td>Teacher </td>
+           <td>Pay back to community</td>
+        </tr>
+         <tr>
+           <td>Zero to hero</td>
+        </tr>
+    </tbody>
+ </table>
+
+ <table>
+    <thead>
+      <tr>
+        <th>How to Learn communciation Skill</th>
+       <th>Verbal Communication </th>
+       <td>Self Analysis</td>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td></td>
+            <td>verbal communication</td>
+            <td>vocabulary development</td>       
+          </tr>
+        <tr>
+            <td></td>
+            <td>Literature Review</td>
+            <td>Confidence Level</td>       
+        </tr>
+         <tr>
+           <td></td>
+           <td>video </td>      
+           <td>Word Collection</td>       
+        </tr>
+         <tr>
+           <td></td>
+          <td>Recording </td>
+           <td>Sloid</td>       
+         </tr>
+       <tr>
+          <td></td>
+         <td>Tutorial</td>
+         <td>Body Language</td>
+       </tr>
+       <tr>
+          <td></td>
+         <td></td>
+         <td>Face Expresion</td>
+       </tr>
+    </tbody>
+ </table>
+
