@@ -419,6 +419,7 @@ Effective buiness communication skill
     </tbody>
  </table>
 
+
 <table>
     <thead>
       <tr>
