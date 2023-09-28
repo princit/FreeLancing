@@ -162,7 +162,7 @@
          </tr>
         <tr>
             <td>About your product</td>
-            <td>About youreslef</td></td>
+            <td>About youreslef</td>
         </tr>
         <tr>
             <td>selection of words </td>
@@ -171,6 +171,34 @@
         <tr>
             <td>Stay connected-skype</td>
             <td>consciseness</td>
+        </tr>
+    </tbody>
+  </table>
+
+
+<table>
+    <thead>
+      <tr>
+        <th>Speed of responce</th>
+        <th>After bid clinet is impressed.But award canceled due to</th> 
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>responce without wasting time</td>
+            <td>see your portfolio</td>           
+         </tr>
+        <tr>
+            <td></td>
+            <td>see your profile</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>see your bid responce</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>message you you are not available</td>
         </tr>
     </tbody>
   </table>
