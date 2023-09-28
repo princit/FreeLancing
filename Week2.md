@@ -202,3 +202,40 @@
         </tr>
     </tbody>
   </table>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Solution</th>
+        <th>Use mobile app of free lancing site so that you can answer</th>
+        <th>See your email adress prediodcally</th> 
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td></td>
+            <td></td>
+            <td>If you cant  give long reply</td>           
+         </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td>leave the short reply</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td>I have read your messge</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td>Thanks for sending me message</td>
+        </tr>       
+        <tr>
+            <td></td>
+            <td></td>
+            <td>I will get back to you shorely</td>
+        </tr>
+    </tbody>
+  </table>
