@@ -384,7 +384,7 @@ Effective buiness communication skill
          <tr>
            <td></td>
           <td>Recording </td>
-           <td>Sloid</td>       
+           <td>Solid</td>       
          </tr>
        <tr>
           <td></td>
@@ -398,4 +398,81 @@ Effective buiness communication skill
        </tr>
     </tbody>
  </table>
+<table>
+    <thead>
+      <tr>
+        <th>Non Verabl communciation</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Eye Contact</td>
+            <td>Hand movement</td>
+        </tr>
+        <tr>
+            <td>witten communication</td>
+            <td>visual commincation i.e  graph</td>
+        </tr>
+         <tr>
+           <td>Listening </td>
+        </tr>
+    </tbody>
+ </table>
 
+<table>
+    <thead>
+      <tr>
+        <th>What is communication skill</th>
+        <th>Type ofcommunication skill</th>
+        <th>How to imporve the communication skill</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Can you do this for me?</td>
+            <td>NO i cant cant do this</td>
+            <td>Sorry I wouldnt be able to help you wit that</td>
+        </tr>
+        <tr>
+            <td>I need Rs 200</td>
+            <td>I am sorry , I surely help you if i have</td>
+            <td>I am feeling bad to say you no but i cant help you this time</td>
+        </tr>
+         <tr>
+        <tr>
+            <td>I have a word can you do this</td>
+            <td>This is impossible</td>
+            <td>Seen difficult but lets take a look</td>
+        </tr>
+          <tr>
+            <td>What the statu of porject</td>
+            <td>I have completed this project nicely</td>
+            <td>We have completed this project nicely</td>
+        </tr> 
+         <tr>
+            <td>Can you talk to me on phone ?</td>
+            <td>Waite</td>
+            <td>Kindly give me one second to look into that</td>
+        </tr>
+         <tr>
+            <td>Can you deliver today</td>
+            <td>No</td>
+            <td>Unfortunately ,No</td>
+        </tr>
+         <tr>
+            <td>How to say no?</td>
+            <td>Hey ,Hold on</td>
+            <td>can o put you on hold</td>
+        </tr>
+          <tr>
+            <td></td>
+            <td>This is not working </td>
+            <td>This look like a glich</td>
+        </tr>
+         <tr>
+            <td>I am giving you task tell me how it will go</td>
+            <td>I will see</td>
+            <td>Let me confrom that I will get back to you in 5 mins</td>
+        </tr>
+    </tbody>
+ </table>
