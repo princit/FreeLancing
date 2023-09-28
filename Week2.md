@@ -239,3 +239,98 @@
         </tr>
     </tbody>
   </table>
+
+
+**Professional Behaviour**
+
+  <table>
+    <thead>
+      <tr>
+        <th>way to convience client</th> 
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>video</td>
+         </tr>
+        <tr>
+            <td>skype conversation</td>
+        </tr>
+        <tr>
+            <td>selection of words in bid</td>
+           </tr>
+        <tr>
+            <td>consciseness to message</td>
+        </tr>       
+        <tr>
+            <td>Profile</td>
+        </tr>
+    </tbody>
+  </table>
+
+  <table>
+    <thead>
+      <tr>
+        <th>be accountable using professional tune</th> 
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>to your self</td>
+            <td>to your employee/Client gives</td> 
+         </tr>
+        <tr>
+            <td></td>
+            <td>Project</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>time</td>
+           </tr>
+        <tr>
+            <td></td>
+            <td>Money</td>
+        </tr>       
+    </tbody>
+  </table>
+   <table>
+    <thead>
+      <tr>
+        <th>be accountable</th> 
+        <th>be disciplined</th> 
+        <th>Manage your time</th> 
+        <th>Have possitive attitude</th>          
+        <th>Know your worth</th>          
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>client is need to ask you question and answer</td>
+            <td>no social networking</td> 
+            <td>tie your time using clock and stopwatch</td> 
+         </tr>
+        <tr>
+            <td>you are accountable for work you do</td>
+            <td>no instant messages</td>
+            <td>no social networking</td> 
+        </tr>
+        <tr>
+            <td>you are accountable for employeer business</td>
+            <td>work done in particualr time frame</td>
+            <td>no social networking</td> 
+           
+           </tr>
+        <tr>
+            <td>you are accountable for dead line</td>
+            <td>how much time need to be invested on particualr job</td>
+             <td>no social networking</td> 
+           
+        </tr> 
+       <tr>
+            <td>you are accountable for money you take but not give the deliverables</td>
+            <td>you are player of big senarios or smaller one</td>
+             <td>no social networking</td> 
+           
+        </tr> 
+    </tbody>
+  </table>
