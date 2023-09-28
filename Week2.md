@@ -93,7 +93,9 @@
     </tbody>
   </table>
 
+
 ![image](https://github.com/princit/FreeLancing/assets/29123911/6c64401f-df6a-4869-9ff7-cf30ba158d1a)
+
  
  <table>
     <thead>
@@ -105,8 +107,7 @@
     <tbody>
         <tr>
             <td>writing is good</td>
-            <td>convence your client</td>
-           
+            <td>convence your client</td>          
          </tr>
         <tr>
             <td>voice is good</td>
