@@ -328,3 +328,43 @@
         </tr> 
     </tbody>
   </table>
+
+
+ **presenting your work**
+
+   <table>
+    <thead>
+      <tr>
+        <th>Description service</th>
+        <th>Portfolio Experence</th>
+        <th>website </th>
+        <th>Socail media</th>
+        <th>Brand your self</th>  
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td></td>
+            <td></td>
+           <td>Home</td> 
+            <td>google plus</td>
+         </tr>
+        <tr>
+            <td></td>
+            <td></td>
+           <td>Search</td> 
+           <td>facebook page</td>        
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+           <td>contact</td> 
+           <td>Printerst</td>
+           </tr>
+        <tr>
+            <td></td>
+            <td></td>
+           <td></td> 
+           <td>Youtube</td> 
+        </tr>       
+    </tbody>
