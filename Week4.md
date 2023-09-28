@@ -1,4 +1,4 @@
-
+![image](https://github.com/princit/FreeLancing/assets/29123911/8bbecbb3-ba42-40ad-94a9-772172140865)
 
    <table>
     <thead>
@@ -194,16 +194,27 @@
     </tbody>
   </table>
 
+![image](https://github.com/princit/FreeLancing/assets/29123911/7af71c43-f6ba-45bf-b710-b029952ab43d)
+
+ Method to take payment form free lance site
+ 
+ ![image](https://github.com/princit/FreeLancing/assets/29123911/1e168061-07b0-4d2f-8748-eec63df6b3cd)
+
+![image](https://github.com/princit/FreeLancing/assets/29123911/91cba2be-16da-40d4-8ebc-1f1e188932cb)
+
  <table>
     <thead>
       <tr>
-        <th>Job account title</th>
+        <th>Free lancer sites ask for making account</th>
+        <th>Dont give account detail in begninng of account creation</th> 
+        <th>testing amount with be cut/th> 
+        <th>payment method you use be aware of there policies /th> 
       </tr>
     </thead>
     <tbody>
         <tr>
-            <td>job =20 thousand</td>    
-            <td>freelancer = 80 thousand (bank will flag you out)</td>    
+            <td>Debet card</td>    
+            <td>Credit card</td>    
         </tr>
         <tr>
             <td> tell bank : using account for job  </td>
@@ -211,4 +222,3 @@
         </tr>
     </tbody>
   </table>
- 
