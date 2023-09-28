@@ -215,9 +215,5 @@
             <td>Debet card</td>    
             <td>Credit card</td>    
         </tr>
-        <tr>
-            <td> tell bank : using account for job  </td>
-            <td> Now : using for freelancing.They will change your account category </td>
-        </tr>
     </tbody>
   </table>
