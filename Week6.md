@@ -346,7 +346,6 @@ Keep write-up/document at maximum on upwork chat history
     <thead>
       <tr>
         <th> Your asset and intellictual property are</th>
-
       </tr>
     </thead>
     <tbody>
