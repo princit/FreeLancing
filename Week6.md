@@ -441,3 +441,114 @@ Keep write-up/document at maximum on upwork chat history
     </tbody>
  </table>
   
+ <table>
+    <thead>
+      <tr>
+        <th> Effective bid for right job</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td> conversation while closing project </td>  
+        </tr>        
+        <tr>
+            <td>client send offer</td>       
+           </tr>
+        <tr>
+            <td> how offer look like </td>  
+        </tr>    
+          <tr>
+            <td> how you accept  offer </td>  
+        </tr>  
+    </tbody>
+  </table>
+
+  Client Rentsion
+   <table>
+    <thead>
+      <tr>
+        <th>  Client remain the same</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>consitant </td>  
+        </tr>        
+        <tr>
+            <td>optimal</td>       
+           </tr>
+        <tr>
+            <td>Delivery</td>  
+        </tr>    
+          <tr>
+            <td> effective</td>  
+        </tr>  
+       <tr>
+            <td> Communication</td>  
+        </tr>  
+    </tbody>
+  </table>
+    <table>
+    <thead>
+      <tr>
+        <th> Maintain</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Energy </td>  
+        </tr>        
+        <tr>
+            <td>Focus</td>       
+           </tr>
+        <tr>
+            <td>Respect</td>  
+        </tr>    
+    </tbody>
+  </table>
+
+      <table>
+    <thead>
+      <tr>
+        <th> Educate Client</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Talk about new technology </td>  
+        </tr>        
+        <tr>
+            <td>Feature plan</td>       
+           </tr>
+        <tr>
+            <td>Show him that you have got the vision</td>  
+        </tr>    
+    </tbody>
+  </table>
+
+  
+  
+  **Identify good client of upwork**
+  
+ <table>
+    <thead>
+      <tr>
+        <th> Reach on existing client</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Dont loose connection connection matter </td>  
+        </tr>        
+        <tr>
+            <td>Folow up once a ween 2time a month</td>       
+           </tr>
+        <tr>
+            <td>Focus on exiting client </td>  
+        </tr>    
+          <tr>
+            <td>keep you self in mind of client </td>  
+        </tr>  
+    </tbody>
+  </table>  
+  ![image](https://github.com/princit/FreeLancing/assets/29123911/5d864e2e-9947-4f98-9ab7-0a2859246b44)
