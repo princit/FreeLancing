@@ -104,5 +104,7 @@ Scams:
   </table>
   
   ![image](https://github.com/princit/FreeLancing/assets/29123911/031456ce-1fc3-4e48-a345-950ce4e16758)
+  
+![image](https://github.com/princit/FreeLancing/assets/29123911/8f566109-93bf-4233-b0ea-8d9afbe3c225)
 
 
