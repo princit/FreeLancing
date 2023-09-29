@@ -278,3 +278,49 @@ Keep write-up/document at maximum on upwork chat history
     </tbody>
   </table>
  
+![image](https://github.com/princit/FreeLancing/assets/29123911/774f1b58-9897-44de-951c-a9bd17f0d3b1)
+
+
+  <table>
+    <thead>
+      <tr>
+        <th> Dont argu on chat</th>
+        <th> Meet Upwork team</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Theat ,absuive ,black maling</td>  
+            <td>Meet upwork team with evidence</td>         
+        </tr>        
+     <tr>
+            <td>you dont need to answer</td>       
+            <td>Lock :take approval</td>       
+        </tr>
+     <tr>
+        <td>If you win the argument it is your loss</td>         
+        <td>tell them it is worng</td>         
+     </tr>
+    </tbody>
+  </table>
+  
+  **Direct contact**
+  <table>
+    <thead>
+      <tr>
+        <th> client come by refrence your brother</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td> Dont need to make profile on upwork</td>  
+            <td>Legal binding between client and freelanccer</td>         
+        </tr>        
+     <tr>
+            <td>3.4% upwork commission</td>       
+            <td>Client give money in ESCROW</td>       
+        </tr>
+    </tbody>
+  </table>
+  
+  
