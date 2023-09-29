@@ -365,4 +365,42 @@ Keep write-up/document at maximum on upwork chat history
            </tr>
     </tbody>
   </table>
+  
+   <table>
+    <thead>
+      <tr>
+        <th> Effective bid for right job</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td> comprehensive purpoal </td>  
+        </tr>        
+        <tr>
+            <td>Job Idenitfy</td>       
+           </tr>
+        <tr>
+            <td> Effort time save </td>  
+        </tr>        
+    </tbody>
+  </table>
 
+<table>
+    <thead>
+      <tr>
+        <th> Time</th>
+         <th> Number of purposal </th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td> 20min </td> 
+            <td> 20 or 50 purposal </td>             
+        </tr>        
+        <tr>
+            <td> 1 day </td> 
+            <td> 150 purposal </td> 
+        </tr>        
+    </tbody>
+  </table>
+  
