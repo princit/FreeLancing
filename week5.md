@@ -107,4 +107,75 @@ Scams:
   
 ![image](https://github.com/princit/FreeLancing/assets/29123911/8f566109-93bf-4233-b0ea-8d9afbe3c225)
 
+<table>
+    <thead>
+      <tr>
+        <th>Top Rated</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Email Suggestion</td>         
+        </tr>
+        <tr>
+            <td>Faster Payment</td>
+       </tr>
+        <tr>
+            <td>Better customer support</td>         
+       </tr>      
+    </tbody>
+  </table>
 
+  **Upwork Project Catalogue**
+
+1-Client will search you
+
+
+
+<table>
+    <thead>
+      <tr>
+        <th>2-you create product and put in showcase</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Define detail</td>         
+        </tr>
+        <tr>
+            <td>Technical Specification</td>
+       </tr>
+        <tr>
+            <td>Deliverable Defined</td>         
+       </tr>      
+        <tr>
+            <td>Price Defined</td>         
+       </tr>      
+        <tr>
+            <td>Packages Defined</td>         
+       </tr>      
+    </tbody>
+  </table>
+  
+<table>
+    <thead>
+      <tr>
+        <th>Client and Employee behvaiour</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>client come less converation -->deal completed</td>         
+        </tr>
+        <tr>
+            <td>You dont run behind the client but clientfind you</td>
+       </tr>
+        <tr>
+            <td>The work you line not the client like</td>         
+       </tr>      
+        <tr>
+            <td>contact can be cancled</td>         
+       </tr>          
+    </tbody>
+  </table>
+  
