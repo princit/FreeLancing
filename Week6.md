@@ -339,7 +339,7 @@ Keep write-up/document at maximum on upwork chat history
         </tr>        
         <tr>
             <td>Job success rate will not be effected</td>       
-            <td>You are using only 1- payment method 2-scurity 3-clarity</td>       
+            <td>You are using only . payment method . scurity . clarity</td>       
         </tr>
     </tbody>
   </table>
