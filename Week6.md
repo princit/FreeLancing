@@ -323,9 +323,8 @@ Keep write-up/document at maximum on upwork chat history
         </tr>
     </tbody>
   </table>
-
   
-    <table>
+  <table>
     <thead>
       <tr>
         <th> Direct contact pros</th>
@@ -335,15 +334,15 @@ Keep write-up/document at maximum on upwork chat history
     <tbody>
         <tr>
             <td> If dispute cant give bad feedback on upwork</td>  
-            <td> Earning will not be included in upwork profile stats</td>         
+            <td> Earning will not be included in upwork profile stats</td>          
         </tr>        
         <tr>
-            <td>Job success rate will not be effected</td>       
-            <td>You are using only . payment method . scurity . clarity</td>       
+            <td>Job success rate will not be effected 1-payment method 2-scurity 3-clarity</td>       
+            <td>You are using only</td>  
         </tr>
     </tbody>
   </table>
-
+  
 
    <table>
     <thead>
