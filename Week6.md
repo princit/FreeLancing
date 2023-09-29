@@ -224,8 +224,11 @@ client feedback shown on your profile
 
 Person who is starting carrier is disprate for 
 
+
 ![image](https://github.com/princit/FreeLancing/assets/29123911/eee77406-c7b8-4556-964d-c1c1d472f0fd)
 
+
 ![image](https://github.com/princit/FreeLancing/assets/29123911/8a8e8c10-803b-4162-b5e9-ed564a04e62a)
+
 
 ![image](https://github.com/princit/FreeLancing/assets/29123911/307f9e58-c6e0-40dc-a2a9-f51e0cc2fd54)
