@@ -217,3 +217,44 @@
         </tr>
     </tbody>
   </table>
+
+ <table>
+    <thead>
+      <tr>
+        <th>Setting your payment information</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Payment Registration </td>  
+            <td>Populate these info on freelance market place </td> 
+        </tr>        
+       <tr>
+            <td> Register your business with FBR</td>       
+       </tr>        
+       <tr>
+           <td>Getting NTN </td> 
+         </tr>        
+       <tr>        
+            <td> Bank swift code IBAN</td>
+       </tr>        
+    </tbody>
+  </table>
+  
+
+
+you earn 20 $ dont with darw unitll 500 $.Because 20 $ will be cut by bank
+
+The money reach your bank in 3 to 4 working days
+
+**Getting IBAN ,Swift code**
+
+They trace your bank address.They are given by your local bank.Search on net IBAN and swift code
+
+**Tell mishap before mid time not in the last hours**
+
+**Importance of Employee feedback**
+
+bad habit --> to take feedback -->dont give feedback
+
+
