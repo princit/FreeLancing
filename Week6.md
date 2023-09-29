@@ -235,3 +235,46 @@ Person who is starting carrier is disprate for
 
 ![image](https://github.com/princit/FreeLancing/assets/29123911/7052750e-0898-4123-9fa6-b5a1f4fab87c)
 
+![image](https://github.com/princit/FreeLancing/assets/29123911/a0a9efe3-cc78-4383-9d25-6f776979463d)
+
+Keep write-up/document at maximum on upwork chat history
+
+  <table>
+    <thead>
+      <tr>
+        <th>Keep following thing on chat histoty</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>write up</td>         
+        </tr>
+        <tr>
+            <td> document</td>
+       </tr>
+    </tbody>
+  </table>
+
+  <table>
+    <thead>
+      <tr>
+        <th> Ask feedback back after milestone,Reason</th>
+        <th> How to take the milestone feedback </th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>If mistake occur after 6 month</td>  
+            <td>I have delievered a milestone if there is any problem or complain tell it right now</td>         
+        </tr>        
+     <tr>
+            <td>clinet ask you have not done my work any time</td>       
+            <td>Lock :take approval</td>       
+        </tr>
+     <tr>
+        <td>Then you ask client to read past feedback on each milestone</td>         
+        <td>Then move to next milestone in upwork chat</td>         
+     </tr>
+    </tbody>
+  </table>
+ 
