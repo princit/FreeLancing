@@ -323,4 +323,45 @@ Keep write-up/document at maximum on upwork chat history
     </tbody>
   </table>
   
-  
+    <table>
+    <thead>
+      <tr>
+        <th> Direct contact pros</th>
+        <th> Direct contact cons</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td> If dispute cant give bad feedback on upwork</td>  
+            <td> Earning will not be included in upwork profile stats</td>         
+        </tr>        
+        <tr>
+            <td>Job success rate will not be effected</td>       
+            <td>You are using only 1- payment method 2-scurity 3-clarity</td>       
+        </tr>
+    </tbody>
+  </table>
+
+   <table>
+    <thead>
+      <tr>
+        <th> Your asset and intellictual property are</th>
+
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td> Earning </td>  
+        </tr>        
+        <tr>
+            <td>No of hours</td>       
+           </tr>
+        <tr>
+            <td> Reviews </td>  
+        </tr>        
+        <tr>
+            <td>Rating</td>       
+           </tr>
+    </tbody>
+  </table>
+
