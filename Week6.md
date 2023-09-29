@@ -551,4 +551,5 @@ Keep write-up/document at maximum on upwork chat history
         </tr>  
     </tbody>
   </table>  
+  
   ![image](https://github.com/princit/FreeLancing/assets/29123911/5d864e2e-9947-4f98-9ab7-0a2859246b44)
