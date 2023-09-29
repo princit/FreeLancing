@@ -76,7 +76,7 @@ Scams:
             <td>Good skill work on top </td>         
        </tr>
         <tr>
-            <td>Batch ystem smart</td>         
+            <td>Batch system smart</td>         
        </tr>
     </tbody>
   </table>
