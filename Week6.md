@@ -402,5 +402,42 @@ Keep write-up/document at maximum on upwork chat history
             <td> 150 purposal </td> 
         </tr>        
     </tbody>
-  </table>
+ </table>
+  
+  <table>
+    <thead>
+      <tr>
+        <th> Mile stone</th>
+         <th> Date </th>
+          <th> price </th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td> Front end </td> 
+            <td>date 1 </td>
+               <td>100$ </td>  
+        </tr>        
+        <tr>
+            <td> back end sprint 1 </td> 
+            <td>date 2 </td>
+             <td>100$ </td>  
+        </tr> 
+           <tr>
+            <td> back end sprint 2</td> 
+            <td>date 3 </td>
+             <td>100$ </td>  
+        </tr>  
+             <tr>
+            <td> QA Code</td> 
+            <td>date 4 </td>
+             <td>100$ </td>  
+        </tr> 
+        <tr>
+            <td> Deployment/td> 
+            <td>date 5 </td>
+             <td>100$ </td>  
+        </tr> 
+    </tbody>
+ </table>
   
