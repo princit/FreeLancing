@@ -305,6 +305,7 @@ Keep write-up/document at maximum on upwork chat history
   </table>
   
   **Direct contact**
+
   <table>
     <thead>
       <tr>
@@ -322,6 +323,7 @@ Keep write-up/document at maximum on upwork chat history
         </tr>
     </tbody>
   </table>
+
   
     <table>
     <thead>
@@ -341,6 +343,7 @@ Keep write-up/document at maximum on upwork chat history
         </tr>
     </tbody>
   </table>
+
 
    <table>
     <thead>
