@@ -47,3 +47,169 @@ Upwork Desktop software-->
        </tr>       
     </tbody>
   </table>
+
+![image](https://github.com/princit/FreeLancing/assets/29123911/6bbed9ec-8ef4-4b40-8e3e-2b584e2fcb3e)
+
+![image](https://github.com/princit/FreeLancing/assets/29123911/7f733ece-baad-42d0-a0ea-b55ae2361fd6)
+
+<table>
+    <thead>
+      <tr>
+        <th>Handling Invites</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Keep mobile in non-silent mode</td>         
+        </tr>
+        <tr>
+            <td>Vibrate</td>
+       </tr>
+        <tr>
+            <td>So that you dont miss the client</td>         
+       </tr>   
+    </tbody>
+  </table>
+
+<table>
+    <thead>
+      <tr>
+        <th>Upwork Desktop software takes automaically</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Screen recodring</td>         
+        </tr>
+        <tr>
+            <td>take image from your screen</td>
+       </tr>
+        <tr>
+            <td>Video recording</td>         
+       </tr>
+        <tr>
+            <td>work diery</td>         
+       </tr>       
+    </tbody>
+  </table>
+<table>
+    <thead>
+      <tr>
+        <th>Upwork Desktop software takes automaically</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Screen recodring</td>         
+        </tr>
+        <tr>
+            <td>take image from your screen</td>
+       </tr>
+        <tr>
+            <td>Video recording</td>         
+       </tr>
+        <tr>
+            <td>work diery</td>         
+       </tr>       
+    </tbody>
+  </table>
+<table>
+    <thead>
+      <tr>
+        <th>Upwork Desktop software takes automaically</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Screen recodring</td>         
+        </tr>
+        <tr>
+            <td>take image from your screen</td>
+       </tr>
+        <tr>
+            <td>Video recording</td>         
+       </tr>
+        <tr>
+            <td>work diery</td>         
+       </tr>       
+    </tbody>
+  </table>
+<table>
+    <thead>
+      <tr>
+        <th>Upwork Desktop software takes automaically</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Screen recodring</td>         
+        </tr>
+        <tr>
+            <td>take image from your screen</td>
+       </tr>
+        <tr>
+            <td>Video recording</td>         
+       </tr>
+        <tr>
+            <td>work diery</td>         
+       </tr>       
+    </tbody>
+  </table>
+
+**Feedback and reviews**
+In freelance market place client has huge number of option
+
+you can send feedback on client profile 
+client feedback shown on your profile
+
+
+<table>
+    <thead>
+      <tr>
+        <th>upwork is double bliended</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>you gave feedback </td> 
+           <td>client have not given back </td>
+        </tr>
+        <tr>
+            <td>When both(you,client) gave the feed back </td>
+            <td>the feed back will be visible on both profile</td>
+        </tr>
+         <tr>
+            <td>If one party have given feedback,then upwork waite for 14 days after feedback </td>
+            <td>after that feed back will be visible on profile</td>
+        </tr>
+        <tr>
+            <td>Milestone completed -->give feedback </td>
+            <td>about job success rate</td>
+        </tr>
+         <tr>
+            <td>YOu cant ask client to give feed back </td>
+            <td>It is against upwork policy</td>
+            <td>intead educate client why feedback is important</td>
+        </tr>
+    </tbody>
+  </table>
+
+  
+  <table>
+    <thead>
+      <tr>
+        <th>**How to identify Scams-sdont do it**</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Client do work outside of Upwork</td>         
+        </tr>
+        <tr>
+            <td>You dont need to pay upwork fee</td>
+       </tr>
+        <tr>
+            <td>You will get more</td>         
+       </tr>
+    </tbody>
+  </table>
