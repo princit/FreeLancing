@@ -232,3 +232,6 @@ Person who is starting carrier is disprate for
 
 
 ![image](https://github.com/princit/FreeLancing/assets/29123911/307f9e58-c6e0-40dc-a2a9-f51e0cc2fd54)
+
+![image](https://github.com/princit/FreeLancing/assets/29123911/7052750e-0898-4123-9fa6-b5a1f4fab87c)
+
