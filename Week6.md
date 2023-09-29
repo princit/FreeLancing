@@ -198,7 +198,7 @@ client feedback shown on your profile
   <table>
     <thead>
       <tr>
-        <th>**How to identify Scams-sdont do it**</th>
+        <th>How to identify Scam-so dont do it</th>
       </tr>
     </thead>
     <tbody>
@@ -211,5 +211,21 @@ client feedback shown on your profile
         <tr>
             <td>You will get more</td>         
        </tr>
+        <tr>
+            <td>Dont share direct number</td>    
+            <td>client says he dont want to talk on upwork</td>   
+       </tr>
+        <tr>
+            <td>If you write skype </td>         
+            <td>They will flag you   </td>         
+        </tr>
     </tbody>
   </table>
+
+Person who is starting carrier is disprate for 
+
+![image](https://github.com/princit/FreeLancing/assets/29123911/eee77406-c7b8-4556-964d-c1c1d472f0fd)
+
+![image](https://github.com/princit/FreeLancing/assets/29123911/8a8e8c10-803b-4162-b5e9-ed564a04e62a)
+
+![image](https://github.com/princit/FreeLancing/assets/29123911/307f9e58-c6e0-40dc-a2a9-f51e0cc2fd54)
