@@ -337,7 +337,7 @@ Keep write-up/document at maximum on upwork chat history
             <td> Earning will not be included in upwork profile stats</td>          
         </tr>        
         <tr>
-            <td>Job success rate will not be effected 1-payment method 2-scurity 3-clarity</td>       
+            <td>Job success rate will not be effected | payment method | scurity | clarity| </td>       
             <td>You are using only</td>  
         </tr>
     </tbody>
