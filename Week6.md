@@ -17,9 +17,12 @@ if previous client resend new project to you-->no connect is lost
 ![image](https://github.com/princit/FreeLancing/assets/29123911/a1abdb48-5b2b-47e1-845d-ad21692cfdb6)
 
 Send Message client
+
 Client : Please allow me manual hors ->he will he will allow manual hours after the you can add manual hour
 Upwork Desktop software-->
+
 1-when start work --start that software
+
 2-when end work --stop that software
 
 
