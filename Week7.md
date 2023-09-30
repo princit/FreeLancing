@@ -35,4 +35,85 @@ www.upwork.com/legal
 
   **Upwork Fourm and Communities**
 
+<table>
+    <thead>
+      <tr>
+        <th>Case Study 1 </th>
+        <th>Old client </th>
+        <th>New client</th>   
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Posted 9 min ago</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Estimated Budget 150$  = Not conformed</td>
+            <td></td>
+            <td></td>
+        </tr>
+         <tr>
+            <td></td>
+            <td>posted many job </td>
+            <td>you can go outside that budget</td>
+        </tr>
+    </tbody>
+  </table>
   
+<table>
+    <thead>
+      <tr>
+        <th>Case Study 2: on going </th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Posted 3-4hr ago</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Invities 100</td>
+            <td>90 unanswered</td>
+            <td>10 respond</td>
+        </tr>
+    </tbody>
+  </table>
+  
+<table>
+    <thead>
+      <tr>
+        <th>What gets your profile banned</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Lot of bids without responce</td>
+        </tr>
+        <tr>
+            <td>Using two profile from one computer</td>
+        </tr>
+    </tbody>
+  </table>
+  <table>
+    <thead>
+      <tr>
+        <th>What gets your profile unbanned</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>sharing contact information</td>
+        </tr>
+        <tr>
+            <td>Ask for email address</td>
+            <td>Reason to trace /track taffic</td>
+        </tr>
+        <tr>
+            <td>Violation of term and policies</td>
+            <td>If you are right tell them right reason to customer support</td>
+        </tr>
+    </tbody>
+  </table>
