@@ -188,7 +188,8 @@ After interview inproved chance of being heired by 50%
     </tbody>
   </table>
 
-    <table>
+
+<table>
     <thead>
       <tr>
         <th>Setting up payment purposal</th>
@@ -205,9 +206,9 @@ After interview inproved chance of being heired by 50%
             <td>project timeline</td>                
         </tr>
     </tbody>
-  </table>
+</table>
 
-    <table>
+<table>
     <thead>
       <tr>
         <th>Excel send in PMB</th>
@@ -225,9 +226,9 @@ After interview inproved chance of being heired by 50%
             <td>Invoice pattern</td>   
         </tr>
     </tbody>
-  </table>
+</table>
 
-      <table>
+<table>
     <thead>
       <tr>
         <th>Steps for project Award Requistinng ESCROW</th>
@@ -245,10 +246,10 @@ After interview inproved chance of being heired by 50%
             <td>so that client deposite money</td>   
         </tr>
     </tbody>
-  </table>
+</table>
 
   
-      <table>
+  <table>
     <thead>
       <tr>
         <th>What cause the dispute?</th>
@@ -266,10 +267,9 @@ After interview inproved chance of being heired by 50%
             <td>lack of confusion</td>  
         </tr>
     </tbody>
-  </table>
+</table>
 
-  
-      <table>
+<table>
     <thead>
       <tr>
         <th>Importance of keeping track of converstation?</th>
@@ -285,9 +285,9 @@ After interview inproved chance of being heired by 50%
             <td>entire documantation exist</td>
         </tr>
     </tbody>
-  </table>
+</table>
 
-      <table>
+<table>
     <thead>
       <tr>
         <th>When to file a dispute?</th>
@@ -301,11 +301,11 @@ After interview inproved chance of being heired by 50%
             <td>payment not relesed</td>          
         </tr>
     </tbody>
-  </table>
+</table>
   
 Fight for ypur right go out of fight
 
-      <table>
+<table>
     <thead>
       <tr>
         <th>PMB have</th>
@@ -314,9 +314,15 @@ Fight for ypur right go out of fight
     <tbody>
         <tr>
             <td>all convsrsation</td>
+            </tr>
+             <tr>
             <td>all Doument</td>         
+        </tr>
+             <tr>
             <td>Meet you milestone and deadlines</td>
+        </tr>
+             <tr>
             <td>payment not relesed</td>          
         </tr>
     </tbody>
-  </table>
+</table>
