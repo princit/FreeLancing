@@ -86,7 +86,8 @@
     </tbody>
   </table>
  
-     <table>
+     
+  <table>
     <thead>
       <tr>
         <th> How soon reply should be submitted</th>
