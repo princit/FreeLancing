@@ -295,9 +295,13 @@ After interview inproved chance of being heired by 50%
     </thead>
     <tbody>
         <tr>
-            <td>Expectation not met</td>
+            <td>Expectation not met</td>       
+        </tr>
+             <tr>
             <td>commitment not fulfilled</td>         
+        </tr>        <tr>
             <td>Employee non responsive</td>
+        </tr>        <tr>
             <td>payment not relesed</td>          
         </tr>
     </tbody>
