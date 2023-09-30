@@ -507,7 +507,8 @@ Keep write-up/document at maximum on upwork chat history
     </tbody>
   </table>
 
-      <table>
+
+ <table>
     <thead>
       <tr>
         <th> Educate Client</th>
@@ -519,7 +520,7 @@ Keep write-up/document at maximum on upwork chat history
         </tr>        
         <tr>
             <td>Feature plan</td>       
-           </tr>
+         </tr>
         <tr>
             <td>Show him that you have got the vision</td>  
         </tr>    
