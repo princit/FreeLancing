@@ -21,12 +21,13 @@
   </table>
   
   **How soon responce should be submitted** 
+
   ASAP-->as soon as possible
+  
   bid within 15 minutes of project post
   
   **Importance of uisng smartphone for PMB(Quick responce)**
-
-
+  
    <table>
     <thead>
       <tr>
@@ -35,7 +36,7 @@
     </thead>
     <tbody>
         <tr>
-            <td>outlook"</td>
+            <td>outlook</td>
             <td>notification</td>
         </tr>
         <tr>
@@ -44,5 +45,45 @@
         </tr>
     </tbody>
   </table>
+ 
+
+   <table>
+    <thead>
+      <tr>
+        <th> How to craft a responce for employee message </th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>The proper approch to reply your client </td>
+            <td>show courtesy</td>
+            <td>what you can do for him</td>
+        </tr>
+        <tr>
+            <td> </td>
+            <td></td>
+            <td>I am very thnkfull to you for sending me message</td>
+        </tr>
+    </tbody>
+  </table>
   
+   <table>
+    <thead>
+      <tr>
+        <th> Dont share contact information </th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Phone number </td>
+            <td>skype id</td>
+            <td>webiste address</td>
+        </tr>
+        <tr>
+            <td>whats app number </td>
+            <td> Home address</td>
+        </tr>
+    </tbody>
+  </table>
+ 
   
